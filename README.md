@@ -11,3 +11,5 @@ Machine Learning: Classification - Managing the Quality Metric of Global Ecologi
 # Hamoye-Stage-D-Quiz
 Neural Networks, Image Recognition and Object Detection - The Amazon Deforestation from Space
 
+# Hamoye-Stage-E-Quiz
+Practical Time Series Analysis  - Forecasting Individual Household Electric Power Consumption
